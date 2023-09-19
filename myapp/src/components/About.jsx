@@ -1,0 +1,16 @@
+import React from 'react'
+
+const About = () => {
+  return (
+    <div class="max-w-[1200px] mx-auto  bg-yellow-500">About
+    
+    <div>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut, doloribus eum, quas veritatis sequi unde temporibus totam, error ipsa consequuntur deserunt deleniti culpa nam ducimus enim dolorem repellat ipsum libero. Molestiae quos sint incidunt reiciendis distinctio iusto quasi officiis consequatur. Placeat, hic quidem minima ut alias esse, consequuntur magnam obcaecati itaque cum doloribus perspiciatis, blanditiis magni accusamus impedit tenetur? Voluptatibus minus quos rerum delectus necessitatibus impedit quasi fugit harum cum itaque, ea vitae sequi qui magnam possimus sapiente aperiam illum hic laboriosam eligendi soluta laborum ullam et suscipit. Corporis eos magnam laudantium ex asperiores eum ducimus? Eos, cum. In perspiciatis placeat aperiam tenetur rerum voluptate, eius, quam dolorem, error voluptas necessitatibus soluta dignissimos. Non repellat architecto soluta quae, eum excepturi praesentium, saepe sint placeat eius voluptatem, quas temporibus obcaecati debitis corporis magni dolores! Dolores ea rem necessitatibus officiis perspiciatis in, voluptas hic deleniti ducimus omnis cupiditate, error, minima dignissimos corrupti? Vero minus corporis numquam eos rem corrupti esse. Cupiditate facilis tempore animi. Sit minus culpa dolorem debitis placeat, sequi sunt beatae, neque iste distinctio dolorum nemo molestiae, rerum tempora similique corrupti error? Laborum veniam fugiat autem cumque maiores minima corporis provident vero atque. Ut autem rem, magni cumque est corrupti.</div>
+    
+    <div>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut, doloribus eum, quas veritatis sequi unde temporibus totam, error ipsa consequuntur deserunt deleniti culpa nam ducimus enim dolorem repellat ipsum libero. Molestiae quos sint incidunt reiciendis distinctio iusto quasi officiis consequatur. Placeat, hic quidem minima ut alias esse, consequuntur magnam obcaecati itaque cum doloribus perspiciatis, blanditiis magni accusamus impedit tenetur? Voluptatibus minus quos rerum delectus necessitatibus impedit quasi fugit harum cum itaque, ea vitae sequi qui magnam possimus sapiente aperiam illum hic laboriosam eligendi soluta laborum ullam et suscipit. Corporis eos magnam laudantium ex asperiores eum ducimus? Eos, cum. In perspiciatis placeat aperiam tenetur rerum voluptate, eius, quam dolorem, error voluptas necessitatibus soluta dignissimos. Non repellat architecto soluta quae, eum excepturi praesentium, saepe sint placeat eius voluptatem, quas temporibus obcaecati debitis corporis magni dolores! Dolores ea rem necessitatibus officiis perspiciatis in, voluptas hic deleniti ducimus omnis cupiditate, error, minima dignissimos corrupti? Vero minus corporis numquam eos rem corrupti esse. Cupiditate facilis tempore animi. Sit minus culpa dolorem debitis placeat, sequi sunt beatae, neque iste distinctio dolorum nemo molestiae, rerum tempora similique corrupti error? Laborum veniam fugiat autem cumque maiores minima corporis provident vero atque. Ut autem rem, magni cumque est corrupti.</div>
+    
+  
+    </div>
+  )
+}
+
+export default About
